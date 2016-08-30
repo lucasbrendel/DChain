@@ -1,0 +1,6 @@
+module Chain;
+
+class Chain
+{
+
+}

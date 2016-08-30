@@ -1,0 +1,6 @@
+module Link;
+
+class Link
+{
+
+}
