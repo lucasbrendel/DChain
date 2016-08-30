@@ -1,0 +1,6 @@
+{
+  "name": "dchain",
+  "description": "DChain allows hooks tasks in a test format",
+  "targetType": "library",
+  "license": "MIT"
+}
