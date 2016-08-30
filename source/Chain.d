@@ -1,6 +1,8 @@
 module Chain;
 
-class Chain
+interface Chain
 {
+    void AggregateLinks();
 
+    void AggregateHooks();
 }

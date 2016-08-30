@@ -1,6 +1,10 @@
 module Link;
 
-class Link
+interface ILink
 {
+    void Setup();
 
+    void Teardown();
+
+    void Task();
 }
